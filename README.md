@@ -10,9 +10,7 @@
 <a href="https://github.com/KimHakSeong1203/KimHakSeong1203">
 </a>
  <br>
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmsp0211)](https://solved.ac/rmsp0211/)
-
+  
 <hr>
 
 <b>Use Skill</b> <br> <br>
