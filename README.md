@@ -60,7 +60,8 @@
 <hr>
 
  <b>Contact</b> <br> <br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rmsp0211@gmail.com) <br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <br>
+  <b>rmsp0211@gmail.com</b>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/KimHakSeong1203/) <br>
 </div>
