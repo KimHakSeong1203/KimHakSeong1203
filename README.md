@@ -1,9 +1,7 @@
 
 
 <a href="https://github.com/KimHakSeong1203/KimHakSeong1203">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimHakSeong1203&hide=l&title_color=FAEA88&text_color=CCC&icon_color=A9FF3F&bg_color=000000" />
-</a>
-<br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimHakSeong1203&hide=l&title_color=FAEA88&text_color=CCC&icon_color=A9FF3F&bg_color=000000" /></a>
  
 <a href="https://github.com/KimHakSeong1203/KimHakSeong1203">
 </a>
@@ -12,19 +10,22 @@
 <hr color="blue">
 
 <div align=center>
-
+  
 <b>Use Main Skill</b> <br> <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-<hr>
-<br><br><br>
-
 <br><br>
+<b>Use Main language</b> <br> <br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
   
 <hr>
-  
 
+<div align=center>
+
+  
 <b>Use language</b> <br> <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
