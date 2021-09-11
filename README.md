@@ -1,11 +1,13 @@
 <a href="https://github.com/KimHakSeong1203/KimHakSeong1203">
-  <img align="right" width="400" height="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimHakSeong1203&hide=l&title_color=FAEA88&text_color=CCC&icon_color=A9FF3F&bg_color=000000" /></a>
+  <img align="right" width="420" height="850" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimHakSeong1203&hide=l&title_color=FAEA88&text_color=CCC&icon_color=A9FF3F&bg_color=000000" /></a>
 <a href="https://github.com/KimHakSeong1203/KimHakSeong1203">
 </a>
 
  <br>
   
-<hr color="blue">
+<h3>19 Old _ Java Backend Developer</h3>
+
+<hr color="white">
 
 <div align=center>
   
