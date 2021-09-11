@@ -2,6 +2,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimHakSeong1203&&show_icons=true&theme=blue-green)
 
+<a href="https://github.com/KimHakSeong1203/KimHakSeong1203">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimHakSeong1203&hide=l&title_color=FAEA88&text_color=CCC&icon_color=A9FF3F&bg_color=323232" />
+</a>
+<br>
+ 
+<a href="https://github.com/KimHakSeong1203/KimHakSeong1203">
+</a>
+ <br>
+
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmsp0211)](https://solved.ac/rmsp0211/)
 
 <hr>
