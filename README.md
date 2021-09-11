@@ -46,7 +46,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <hr>
 
- <b>Contact</b> <br>
+ <b>Contact</b> <br> <br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <br>
  <b>rmsp0211@gmail.com</b>
 
