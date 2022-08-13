@@ -5,7 +5,7 @@
 
  <br>
   
-<h3>19 Old _ Java Backend Developer </h3>
+<h3>20살 MobileApp, WebApp, Backend Developer </h3>
 
 <hr color="white">
 
