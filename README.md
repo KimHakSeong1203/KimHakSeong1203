@@ -5,7 +5,7 @@
 
  <br>
   
-<h3>21살 MobileApp, WebApp, Backend Developer </h3>
+<h3>23살 MobileApp, WebApp, Backend Developer </h3>
 
 <hr color="white">
 
